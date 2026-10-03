@@ -1,0 +1,19 @@
+# Tệp rác hệ điều hành
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Tệp nhật ký, log hoặc file tạm
+*.log
+*.tmp
+temp/
+
+# Thư mục chứa ảnh chụp màn hình test game (nếu bạn không muốn đưa ảnh lên GitHub)
+pic ingame/
+backupold/
+*.py
+*.txt
+*.xlsx
+Vietnamese.json
+Vietnamese_other.json
+English.json
