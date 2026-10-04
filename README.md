@@ -8,6 +8,19 @@ Bạn có cảm thấy khó chịu khi chơi Subnautica Below Zero bằng tiến
 
 Hiểu được khó khăn đó của những bạn không quá chuyên sâu tiếng Anh như mình, mình quyết định tự tay làm lại dự án này. Bản dịch được thực hiện thủ công hoàn toàn, kết hợp công nghệ hỗ trợ để trau chuốt từng câu chữ. Hy vọng dự án này sẽ giúp cộng đồng có một trải nghiệm game trọn vẹn và cảm xúc hơn!
 
+#### Hướng dẫn và thông tin
+
+*Đã dịch xong ~44.35% bản dịch (có thể nhiều hơn), tải file Vietnamese_Main.json bằng cách bấm vào tên file đó ở phần như hình
+
+
+#### Sau đó nhấp vào đây để tải về:
+
+
+
+**Đổi tên thành Vietnamese rồi copy vào thư mục như sau:
+[tên folder chứa SubnauticaZero.exe]\SubnauticaZero_Data\StreamingAssets\SNUnmanagedData\LanguageFiles\
+Sau đó chọn thay thế.**
+
 #### Credit
 
 * **Dự án được thực hiện bởi:** HoangQuan281
