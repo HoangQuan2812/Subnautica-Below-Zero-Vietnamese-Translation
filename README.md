@@ -11,10 +11,11 @@ Hiểu được khó khăn đó của những bạn không quá chuyên sâu ti�
 #### Hướng dẫn và thông tin
 
 *Đã dịch xong ~44.35% bản dịch (có thể nhiều hơn), tải file Vietnamese_Main.json bằng cách bấm vào tên file đó ở phần như hình
+<img width="1333" height="245" alt="image" src="https://github.com/user-attachments/assets/6e52ccb7-9d84-442b-9f5f-d6a6cedc2e37" />
 
 
 #### Sau đó nhấp vào đây để tải về:
-
+<img width="1365" height="620" alt="image2" src="https://github.com/user-attachments/assets/e64a90c8-6178-403a-b47c-4fc96d441e1b" />
 
 
 **Đổi tên thành Vietnamese rồi copy vào thư mục như sau:
