@@ -1,4 +1,4 @@
-# Subnautica Below Zero Vietnamese Translation Alpha 0.10
+# Subnautica Below Zero Vietnamese Translation Alpha 0.11
 
 File dịch tiếng Việt cho Subnautica Below Zero
 
