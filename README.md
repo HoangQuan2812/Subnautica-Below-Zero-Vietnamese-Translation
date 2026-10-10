@@ -1,4 +1,4 @@
-# Subnautica Below Zero Vietnamese Translation Alpha 0.11
+# Subnautica Below Zero Vietnamese Translation Alpha 0.12
 
 File dịch tiếng Việt cho Subnautica Below Zero
 
@@ -10,7 +10,7 @@ Hiểu được khó khăn đó của những bạn không quá chuyên sâu ti�
 
 #### Hướng dẫn và thông tin
 
-*Đã dịch xong ~67.95% (2650/3900 key) bản dịch (có thể nhiều hơn), tải file Vietnamese_Main.json bằng cách bấm vào tên file đó ở phần như hình
+*Đã dịch xong ~88.59% (3455/3900 key) bản dịch (có thể nhiều hơn), tải file Vietnamese_Main.json bằng cách bấm vào tên file đó ở phần như hình
 <img width="1333" height="245" alt="image" src="https://github.com/user-attachments/assets/6e52ccb7-9d84-442b-9f5f-d6a6cedc2e37" />
 
 
