@@ -1,4 +1,4 @@
-# Subnautica Below Zero Vietnamese Translation Alpha 0.13
+# Subnautica Below Zero Vietnamese Translation Alpha 0.14
 
 File dịch tiếng Việt cho Subnautica Below Zero
 
@@ -10,7 +10,10 @@ Hiểu được khó khăn đó của những bạn không quá chuyên sâu ti�
 
 #### Hướng dẫn và thông tin
 
-*Đã dịch xong ~89.36% (3485/3900 key) bản dịch (có thể nhiều hơn). Các phần đã có gồm: đa số trong databank; một vài phần PDA log; gần như toàn bộ GUI, UI; toàn bộ công thức chế tạo; một vài hải tiêu đã được dịch;...
+*Đã dịch xong ~89.46% (3489/3900 key) bản dịch (có thể nhiều hơn). Các phần đã có gồm: đa số trong databank; một vài phần PDA log; gần như toàn bộ GUI, UI; toàn bộ công thức chế tạo; một vài hải tiêu đã được dịch;...
+
+*Changelog:
+(12/10/26)(alpha 0.14) update nhỏ do ít thời gian thực hiện
 
 *Nếu có lỗi chỗ nào thì báo cáo cho mình nha! Cảm ơn rất nhiều vì đã tin dùng và trải nghiệm bản dịch thuật của mình (‾◡◝)
 
